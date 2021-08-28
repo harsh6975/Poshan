@@ -1,0 +1,6 @@
+.feature{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 60px 20px;
+}

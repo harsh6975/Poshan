@@ -1,0 +1,29 @@
+.header{
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  width: 100%;
+  transition: all 0.4s;
+}
+.row{
+ 
+  padding-top: 10px;
+  text-align: center;
+  background: rgb(28, 63, 28) ;
+}
+
+.menu ul{
+  list-style: none;
+  float: right;
+  margin-right: 30px;
+}
+.menu ul li, .logo{
+  color: whitesmoke;
+  display: inline-block;
+  transition: all 0.2s;
+  padding: 0px 18px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 28px;
+  line-height: 50px;
+}
